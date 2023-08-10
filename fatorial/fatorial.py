@@ -9,7 +9,12 @@ i = 1
 #     fat = fat * i
 #     i+=1
 
+print('Fatorial de: ',x, end='')
+
 for i in range(1, x+1):
     fat*=i
+    if(x-i==0):
+        continue
+    print(' x', x - i,end=' ')
 
-print(fat) 
+print('=', fat) 
