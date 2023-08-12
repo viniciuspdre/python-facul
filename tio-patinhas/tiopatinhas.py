@@ -1,14 +1,10 @@
 import os
 os.system('cls')
-i = 0
-numeros = []
-while i < 6:
-    n = int(input('Me forneça um número natural para a mega-sena: '))
-    numeros.append(n)
-    i=i+1
 
-for x in numeros:
-    if(x < 0):
-        print('O número {0} que você escreveu é inválido.'.format(x))
+x = range(6)
+for i in x:
+    numero = int(input('Me forneça um número.'))
+    if(numero < 0 or numero == n):
+        print('O número {0} é inválido.'.format(numero))
     else:
-        print(x)
+        print('O número {0} é válido.'.format(numero))
