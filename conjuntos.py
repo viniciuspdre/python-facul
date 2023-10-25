@@ -67,20 +67,20 @@ def uniao(vetor1,vetor2):
     vetorUniao = vetorTemp
     return imprimirVetor(vetorUniao)
 
-def subtracao(vetor1,vetor2):
-    validacao = maiorVetor(vetor1,vetor2)
-    vetorSubtracao = []
-    if validacao == 1:
-        tam = vetor2
-        for i in range(len(vetor1)):
-            if i > tam - 1:
-                vetor2.append(0)
-    else:
-        tam = vetor1
-        for i in range(len(vetor2)):
-            if i > tam - 1:
-                vetor1.append(0)
-    return imprimirVetor(vetorSubtracao)
+# def subtracao(vetor1,vetor2):
+#     validacao = maiorVetor(vetor1,vetor2)
+#     vetorSubtracao = []
+#     if validacao == 1:
+#         tam = vetor2
+#         for i in range(len(vetor1)):
+#             if i > tam - 1:
+#                 vetor2.append(0)
+#     else:
+#         tam = vetor1
+#         for i in range(len(vetor2)):
+#             if i > tam - 1:
+#                 vetor1.append(0)
+#     return imprimirVetor(vetorSubtracao)
 
 def diferenca(vetor1, vetor2):
     vetorDiferenca = []
@@ -93,6 +93,34 @@ def diferenca(vetor1, vetor2):
                     vetorDiferenca.append(vetor1[i])
         contador = 0
     return imprimirVetor(vetorDiferenca)
+
+def contido(vetor1, vetor2):
+    if len(vetor1) == len(vetor2):
+        contador = 0
+        for i in range(len(vetor1)):
+            if vetor1[i] == vetor2[i]:
+                contador += 1
+        if contador == len(vetor1):
+            return 'Os vetores são iguais.'
+    elif len(vetor1) > len(vetor2):
+        contador = 0
+        for i in range(len(vetor2)):
+            for j in range(len(vetor1)):
+                if vetor2[i] == vetor1[j]:
+                    contador += 1
+        if contador == len(vetor2):
+            return 'O vetor B está contido no vetor A'
+        return 'Nenhum vetor está contido no outro'
+    elif len(vetor2) > len(vetor1):
+        contador = 0
+        for i in range(len(vetor1)):
+            for j in range(len(vetor2)):
+                if vetor1[i] == vetor2[j]:
+                    contador += 1
+        if contador == len(vetor1):
+            return 'O vetor A está contido no vetor B'
+        return 'Nenhum vetor está contido no outro'
+    return 'Nenhum vetor está contido no outro.'
     
 a = [random.randint(10,99)]
 b = [random.randint(10,99)]
@@ -118,10 +146,12 @@ print('--------------- Vetor A ---------------')
 imprimirVetor(a)
 print('--------------- Vetor B ---------------')
 imprimirVetor(b)
-print('--------------- Intersecção ---------------')
+print('--------------- Intersecção (A ∩ B) ---------------')
 intersec(a,b)
-print('--------------- União ---------------')
+print('--------------- União (A ∪ B) ---------------')
 uniao(a,b)
-print('--------------- Diferença ---------------')
+print('--------------- Diferença (A - B) ---------------')
 diferenca(a,b)
 print('--------------- Contidos ---------------')
+checagemContido = contido(a,b)
+print(checagemContido)
