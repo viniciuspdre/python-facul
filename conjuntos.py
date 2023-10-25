@@ -1,14 +1,6 @@
 import random, os
 os.system('cls')
 
-def remover(vetor, indice):
-    novoVetor = []
-    for i in range(len(vetor)):
-        if i != indice:
-            novoVetor.append(vetor[i])
-    vetor = novoVetor
-    novoVetor = []
-
 def bolha(vetor):
     tam = len(vetor)
     troca = True
@@ -57,56 +49,67 @@ def intersec(vetor1, vetor2):
     for j in range(tam-1):
         if vetorIntersec[j] != vetorIntersec[j+1]:
             novoVetor.append(vetorIntersec[j])
+    if tam > 1:
+        novoVetor.append(vetorIntersec[tam-1])
     if len(novoVetor) > 0:
         vetorIntersec = novoVetor
     return imprimirVetor(vetorIntersec)
     
 def uniao(vetor1,vetor2):
+    vetorTemp = []
     vetorUniao = vetor1
-    novoVetor = []
-    for i in range(len(vetor2)):
-        vetorUniao.append(vetor2[i])
-    vetorUniao = bolha(vetorUniao)
-    for j in range(len(vetorUniao)-1):
-        if vetorUniao[j] != vetorUniao[j+1]:
-            novoVetor.append(vetorUniao[j])
-    novoVetor = bolha(novoVetor)
-    if vetorUniao[len(vetorUniao)-1] != novoVetor[len(novoVetor)-1]:
-        novoVetor.append(novoVetor[len(novoVetor)-1])
-    vetorUniao = novoVetor
+    vetorUniao += vetor2
+    bolha(vetorUniao)
+    for i in range(len(vetorUniao)-1):
+        if vetorUniao[i] != vetorUniao[i+1]:
+            vetorTemp.append(vetorUniao[i])
+    vetorTemp.append(vetorUniao[len(vetorUniao)-1])
+    vetorUniao = vetorTemp
     return imprimirVetor(vetorUniao)
 
-# def subtracao(vetor1,vetor2):
-#     validacao = maiorVetor(vetor1,vetor2)
-#     vetorSubtracao = []
-#     if validacao == 1:
-#         tam = vetor2
-#         for i in range(len(vetor1)):
-#             if i > tam - 1:
-#                 vetor2.append(0)
-#     else:
-#         tam = vetor1
-#         for i in range(len(vetor2)):
-#             if i > tam - 1:
-#                 vetor1.append(0)
-#     imprimirVetor(vetorSubtracao)
+def subtracao(vetor1,vetor2):
+    validacao = maiorVetor(vetor1,vetor2)
+    vetorSubtracao = []
+    if validacao == 1:
+        tam = vetor2
+        for i in range(len(vetor1)):
+            if i > tam - 1:
+                vetor2.append(0)
+    else:
+        tam = vetor1
+        for i in range(len(vetor2)):
+            if i > tam - 1:
+                vetor1.append(0)
+    return imprimirVetor(vetorSubtracao)
 
 def diferenca(vetor1, vetor2):
+    vetorDiferenca = []
     for i in range(len(vetor1)):
+        contador = 0
         for j in range(len(vetor2)):
-            if vetor1[i] == vetor2[j]:
-                vetor1 = remover(vetor1,i)
-                break
-    return imprimirVetor(vetor1)
+            if vetor1[i] != vetor2[j]:
+                contador += 1
+                if contador == len(vetor2):
+                    vetorDiferenca.append(vetor1[i])
+        contador = 0
+    return imprimirVetor(vetorDiferenca)
+    
+a = [random.randint(10,99)]
+b = [random.randint(10,99)]
 
-a = []
-b = []
+for vetorA in range(random.randint(0,9)):
+    valor = random.randint(10,99)
+    for i in range(len(a)):
+        while valor == a[i]:
+            valor = random.randint(10,99)
+    a.append(valor)
 
-for vetorA in range(random.randint(1,10)):
-    a.append(random.randint(10,99))
-
-for vetorB in range(random.randint(1,10)):
-    b.append(random.randint(10,99))
+for vetorB in range(random.randint(0,9)):
+    valor = random.randint(10,99)
+    for i in range(len(b)):
+        while valor == b[i]:
+            valor = random.randint(10,99)
+    b.append(valor)
 
 #imprimir os vetores a e b
 a = bolha(a)
@@ -121,4 +124,4 @@ print('--------------- União ---------------')
 uniao(a,b)
 print('--------------- Diferença ---------------')
 diferenca(a,b)
-# subtracao(a,b)
+print('--------------- Contidos ---------------')
