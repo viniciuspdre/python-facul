@@ -9,12 +9,11 @@ def potencia(base, expoente):
                 res *= base
             else:
                 res = 1
-        return res
     else:
         expoente *= -1
         for i in range(expoente):
             res *= 1/base
-        return res
+    return res
         
-print(potencia(2,10))
+print(potencia(2,0))
             

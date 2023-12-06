@@ -1,0 +1,12 @@
+Valor total gasto: 38920
+Morcegos encontrados: 62
+Túmulos encontrados: 71
+Bonecos encontrados: 78
+Gasto diário: 8030
+Gasto diário: 7540
+Gasto diário: 120
+Gasto diário: 8280
+Gasto diário: 2560
+Gasto diário: 4400
+Gasto diário: 7990
+Quarta foi o dia com maior gasto.

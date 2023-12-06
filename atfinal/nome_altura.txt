@@ -1,0 +1,58 @@
+Kara Zor-El;F;1,7
+Emma Frost;F;1,6
+Lorna Sally Dane;F;1,7
+Anna Marie LeBeau;F;1,4
+Illyana Rasputin;F;1,7
+Ororo Munroe;F;1,2
+Elizabeth Betsy Braddock;F;1,1
+Jubilation Lee;F;1,2
+Nathan Christopher Charles Summers;F;1,2
+Wanda Maximoff;F;1,5
+Maria Callasantos;F;1,0
+Tabitha Smith;F;1,3
+Natalia Alianovna Romanova;F;1,3
+Jessica Miriam Drew;F;1,4
+Elektra Natchios;F;1,0
+Susan Victoria Sue Storm-Richards;F;1,4
+Jennifer Susan Walters;F;1,6
+Janet Van Dyne;F;1,7
+Crystalia Amaquelin;F;1,3
+Medusalith Amaquelin-Boltagon;F;1,9
+Carol Susan Jane Danvers;F;1,5
+Natasha Romanova;F;1,1
+Jean Grey;F;1,0
+Jennifer Walters;F;1,2
+Peter Parker;M;1,7
+Bruce Banner;M;1,7
+Tony Stark;M;1,9
+Charles Xavier;M;1,2
+Erik Magnus;M;1,6
+Stephen Vincent ;M;1,6
+Matt Murdock;M;1,6
+Nick Fury;M;1,7
+Adam Warlock;M;1,7
+Warren Kenneth Worthington III;M;1,8
+Hank Pym;M;1,9
+Kurt Wagner;M;1,1
+Samuel Zachery;M;1,2
+Roberto Da Costa;M;1,0
+Alex Summers;M;1,6
+Gabriel Summers;M;1,0
+Billy Batson;M;1,4
+Kal-El;M;1,9
+Clark Kent;M;1,7
+Bruce Wayne;M;1,3
+Hal Jordan;M;1,8
+Matthew Michael Murdock;M;1,7
+Samuel Thomas Wilson;M;1,3
+Namor McKenzie;M;1,0
+James Rupert Rhodes;M;1,3
+Johnathon Blaze;M;1,8
+Piotr Nikolaievitch Rasputin;M;1,6
+Robert Louis Drake;M;1,5
+Remy Etienne LeBeau;M;1,7
+Henry Philip McCoy;M;1,0
+Forge;M;1,2
+Lucas Bishop;M;1,3
+Neena Thurman;M;1,9
+James Proudstar;M;1,7

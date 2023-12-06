@@ -1,0 +1,167 @@
+1, 106, 1, 37415381, 2, solteiro(a), Peter Parker
+2, 56, 1, 37419999, 2, solteiro(a), Bruce Banner
+3, 67, 1, 37411615, 1, casado(a), Tony Stark
+4, 44, 2, 37418572, 1, solteiro(a), Natasha Romanova
+5, 117, 1, 37418479, 2, casado(a), Charles Xavier
+6, 68, 1, 37411881, 0, casado(a), Erik Magnus
+7, 118, 1, 37413824, 3, divorciado(a), Stephen Vincent 
+8, 62, 1, 37416762, 3, solteiro(a), Matt Murdock
+9, 54, 1, 37415692, 2, divorciado(a), Nick Fury
+10, 57, 1, 37412809, 1, divorciado(a), Adam Warlock
+11, 31, 1, 37417694, 1, casado(a), Jean Grey
+12, 73, 2, 37413761, 1, divorciado(a), Jennifer Walters
+13, 106, 1, 37417211, 1, divorciado(a), Warren Kenneth Worthington III
+14, 118, 1, 37412177, 0, divorciado(a), Hank Pym
+15, 100, 1, 37418028, 3, uniao estavel, Kitty Pryde
+16, 60, 2, 37411899, 0, uniao estavel, Kara Zor-El
+17, 47, 1, 37413650, 2, solteiro(a), Billy Batson
+18, 22, 1, 37413490, 2, uniao estavel, Kal-El
+19, 92, 1, 37419526, 1, uniao estavel, Clark Kent
+20, 111, 1, 37414659, 1, solteiro(a), Bruce Wayne
+21, 45, 1, 37414688, 0, divorciado(a), Hal Jordan
+22, 85, 2, 37418374, 0, casado(a), Emma Frost
+23, 52, 1, 37415096, 3, uniao estavel, Kurt Wagner
+24, 120, 1, 37416561, 0, solteiro(a), Samuel Zachery
+25, 53, 1, 37417318, 2, uniao estavel, Roberto Da Costa
+26, 102, 1, 37412251, 3, divorciado(a), Alex Summers
+27, 56, 2, 37412314, 1, solteiro(a), Gabriel Summers
+28, 79, 2, 37416666, 2, divorciado(a), Lorna Sally Dane
+29, 120, 2, 37411863, 0, uniao estavel, Anna Marie LeBeau
+30, 60, 1, 37415350, 3, uniao estavel, Piotr Nikolaievitch Rasputin
+31, 36, 1, 37413322, 3, uniao estavel, Robert Louis Drake
+32, 53, 2, 37414700, 3, solteiro(a), Remy Etienne LeBeau
+33, 39, 1, 37416395, 0, uniao estavel, Henry Philip McCoy
+34, 97, 2, 37412095, 0, casado(a), Illyana Rasputin
+35, 110, 1, 37414033, 3, uniao estavel, Calvin Montgomery Rankin
+36, 42, 2, 37417836, 2, solteiro(a), Ororo Munroe
+37, 114, 1, 37416847, 0, solteiro(a), Shiro Yashida
+38, 108, 1, 37413876, 0, solteiro(a), James Howlett
+39, 104, 1, 37412273, 0, solteiro(a), Sean cassidy
+40, 84, 2, 37414179, 2, divorciado(a), Elizabeth Betsy Braddock
+41, 64, 2, 37416741, 1, solteiro(a), Jubilation Lee
+42, 55, 1, 37414323, 3, casado(a), Forge
+43, 95, 1, 37416649, 2, uniao estavel, Lucas Bishop
+44, 77, 1, 37419602, 0, solteiro(a), Nathan Christopher Charles Summers
+45, 88, 2, 37419522, 1, solteiro(a), Neena Thurman
+46, 69, 1, 37412792, 3, divorciado(a), James Proudstar
+47, 76, 2, 37411930, 3, casado(a), Wanda Maximoff
+48, 102, 1, 37411067, 0, uniao estavel, Pietro Django Maximoff
+49, 33, 1, 37416656, 2, casado(a), Gaveedra-Seven
+50, 28, 2, 37411668, 0, uniao estavel, Maria Callasantos
+51, 37, 2, 37415252, 2, uniao estavel, Tabitha Smith
+52, 32, 1, 37416833, 3, divorciado(a), Fantomex/Charlie Cluster
+53, 72, 1, 37418395, 2, casado(a), Wade Winston Wilson
+54, 29, 1, 37418341, 0, uniao estavel, Adam Warlock
+55, 76, 1, 37413669, 3, divorciado(a), Luke Cage 
+56, 102, 1, 37414536, 2, divorciado(a), Antony Edward Stark
+57, 112, 2, 37412020, 3, divorciado(a), Natalia Alianovna Romanova
+58, 46, 2, 37415508, 1, solteiro(a), Jessica Miriam Drew
+59, 66, 1, 37414248, 3, solteiro(a), Steven Grant Rogers
+60, 46, 1, 37415044, 1, uniao estavel, Walter Langkowski
+61, 80, 1, 37411587, 0, uniao estavel, Eugene Milton Judd
+62, 37, 1, 37415933, 1, solteiro(a), Matthew Michael Murdock
+63, 22, 1, 37416704, 2, uniao estavel, Samuel Thomas Wilson
+64, 43, 1, 37416329, 3, casado(a), Namor McKenzie
+65, 25, 1, 37413290, 2, casado(a), James Rupert Rhodes
+66, 107, 1, 37412294, 3, uniao estavel, Johnathon Blaze
+67, 116, 2, 37418921, 1, uniao estavel, Elektra Natchios
+68, 29, 1, 37415221, 1, uniao estavel, Norrin Radd
+69, 22, 1, 37416433, 3, solteiro(a), Robert Bruce Banner
+70, 90, 1, 37413227, 1, uniao estavel, Clinton Francis Barton
+71, 63, 1, 37412057, 0, divorciado(a), James Buchanan "Bucky" Barnes
+72, 96, 1, 37417546, 1, solteiro(a), Visão
+73, 93, 1, 37411632, 1, divorciado(a), Thor Odinson
+74, 30, 1, 37417505, 0, casado(a), Hércules
+75, 64, 1, 37413614, 1, solteiro(a), Frank Castle
+76, 55, 1, 37416744, 2, casado(a), Daniel Thomas Rand-K'ai
+77, 35, 1, 37415993, 3, divorciado(a), Erik Brooks
+78, 120, 1, 37419978, 1, solteiro(a), Tyrone Johnson
+79, 24, 2, 37412802, 3, uniao estavel, Tandy Bowen
+80, 101, 1, 37418035, 0, divorciado(a), Longshot
+81, 31, 1, 37411775, 3, uniao estavel, Alison Blaire
+82, 24, 1, 37411553, 2, solteiro(a), Ka-zar/lorde Kevin Reginald Plunder
+83, 65, 1, 37414011, 3, divorciado(a), Marc Spector
+84, 73, 1, 37412695, 2, divorciado(a), Blackagar Boltagon
+85, 101, 1, 37412288, 1, solteiro(a), Peter Jason Quill
+86, 113, 1, 37413092, 3, solteiro(a), Rocket Raccoon
+87, 37, 2, 37415527, 2, casado(a), Gamora Zen Whoberi Ben Titan
+88, 20, 1, 37418015, 3, solteiro(a), Arthur Sampson Douglas
+89, 43, 1, 37413833, 3, casado(a), Mantis
+90, 54, 1, 37411844, 0, uniao estavel, Richard Rider
+91, 26, 2, 37412294, 3, casado(a), Susan Victoria Sue Storm-Richards
+92, 23, 2, 37416273, 1, uniao estavel, Jonathan Lowell Spencer Storm
+93, 98, 1, 37416004, 1, solteiro(a), Reed Richards
+94, 22, 1, 37419546, 0, solteiro(a), Benjamin Jacob Grimm
+95, 74, 2, 37416488, 2, solteiro(a), Jennifer Susan Walters
+96, 74, 1, 37418701, 2, solteiro(a), John Proudstar
+97, 85, 2, 37414366, 2, uniao estavel, Zarda Shelton
+98, 56, 1, 37411112, 0, solteiro(a), Robert Frank
+99, 57, 1, 37416462, 3, divorciado(a), Kingsley Rice
+100, 111, 1, 37418256, 1, uniao estavel, Marcus Milton
+101, 116, 2, 37414240, 0, casado(a), Stanley Stewart
+102, 48, 1, 37415398, 3, solteiro(a), Raleigh Lund
+103, 106, 1, 37418249, 0, divorciado(a), Joseph Ledger
+104, 86, 1, 37419433, 3, casado(a), Albert Gaines
+105, 112, 2, 37417716, 1, uniao estavel, Edith Freiberg
+106, 64, 1, 37415317, 1, casado(a), Stephen Vincent Strange
+107, 106, 2, 37418020, 2, divorciado(a), Janet Van Dyne
+108, 19, 2, 37414603, 3, casado(a), Crystalia Amaquelin
+109, 34, 2, 37417562, 2, divorciado(a), Medusalith Amaquelin-Boltagon
+110, 47, 2, 37416092, 0, casado(a), Carol Susan Jane Danvers
+111, 49, 1, 37419543, 0, uniao estavel, Brian Braddock
+112, 89, 2, 37414670, 1, uniao estavel, Meggan Braddock
+113, 81, 2, 37417161, 0, casado(a), Jessica Campbell
+114, 38, 2, 37411616, 2, divorciado(a), Shuri
+115, 114, 2, 37417054, 0, solteiro(a), Nebulosa
+116, 92, 2, 37411786, 1, casado(a), Maria Hill
+117, 70, 2, 37412061, 1, solteiro(a), Virginia Potts
+118, 44, 2, 37419190, 2, uniao estavel, Valquíria
+119, 25, 1, 37416297, 1, solteiro(a), Vilões Marvel
+120, 67, 1, 37413662, 1, solteiro(a), Victor Von Doom, Rei da Latvéria
+121, 53, 1, 37414804, 0, casado(a), Kang o conquistador
+122, 47, 1, 37412952, 3, casado(a), Fu-manchu
+123, 54, 1, 37417915, 0, divorciado(a), Ultron
+124, 83, 1, 37417803, 2, uniao estavel, Galactus/Galan
+125, 77, 1, 37412306, 3, solteiro(a), Erik Lensherr
+126, 100, 2, 37415691, 0, divorciado(a), Raven Darkholme
+127, 89, 1, 37414168, 1, divorciado(a), Lester 
+128, 111, 1, 37412368, 1, uniao estavel, Loki Laufeyson
+129, 93, 2, 37413633, 3, divorciado(a), Johann Schimidt
+130, 53, 1, 37417908, 0, divorciado(a), Jason Wyngarde
+131, 93, 1, 37416719, 1, solteiro(a), Victor Creed
+132, 90, 1, 37412814, 0, solteiro(a), Dominikos Ioannis Petrakis
+133, 60, 1, 37419261, 0, uniao estavel, Cain Marko
+134, 120, 2, 37416381, 1, divorciado(a), Selene Gallio
+135, 72, 2, 37415401, 0, casado(a), Emma Grace Frost
+136, 67, 2, 37415043, 0, casado(a), Jean Elaine Grey-Summers
+137, 59, 1, 37418666, 3, divorciado(a), Robert Reynolds
+138, 56, 1, 37412001, 2, uniao estavel, En Sabah Nur
+139, 33, 1, 37411739, 0, uniao estavel, Edward Charles Allan Brock
+140, 103, 1, 37414261, 0, casado(a), Wilson Grant Fisk
+141, 109, 2, 37416197, 3, uniao estavel, Norman Virgil Osborn
+142, 98, 1, 37415974, 2, casado(a), Jason Macendale Jr
+143, 101, 1, 37412428, 3, solteiro(a), Maxwell Dillon
+144, 111, 1, 37411280, 0, divorciado(a), Quentin Beck
+145, 98, 1, 37412796, 2, divorciado(a), William Baker
+146, 20, 1, 37415179, 2, uniao estavel, Morris Bench
+147, 88, 1, 37418968, 1, uniao estavel, Macdonald Gargan
+148, 86, 1, 37417936, 2, uniao estavel, Sergei Nikolayevich Kravinoff
+149, 81, 1, 37416570, 1, casado(a), Camaleão
+150, 37, 2, 37415890, 0, solteiro(a), Lonnie Thompson Lincoln
+151, 36, 1, 37417546, 2, divorciado(a), Michael Morbius
+152, 109, 1, 37415814, 0, divorciado(a), Cabeça de martelo
+153, 31, 1, 37412025, 3, uniao estavel, Dennis Carradine
+154, 38, 1, 37411905, 0, solteiro(a), Thanos
+155, 55, 1, 37412592, 1, divorciado(a), Otto Gunther Octavius
+156, 28, 1, 37419459, 1, casado(a), Cletus Kassady
+157, 102, 1, 37413570, 0, uniao estavel, Adrian Toomes
+158, 87, 1, 37411570, 2, uniao estavel, Mortimer Toynbee
+159, 112, 2, 37417659, 0, divorciado(a), Hela Odinsdottir
+160, 62, 2, 37419654, 3, casado(a), Arnim Zola
+161, 82, 1, 37417177, 1, divorciado(a), Erik Kilmonguer
+162, 89, 1, 37411732, 2, solteiro(a), Ulysses Klaw
+163, 34, 1, 37411350, 3, solteiro(a), Hal Jordan
+164, 65, 1, 37412419, 0, solteiro(a), Bruce Wayne
+165, 115, 2, 37412190, 3, solteiro(a), Selena Kyle
+166, 31, 1, 37415408, 3, solteiro(a), Clark Kent
+167, 55, 1, 37413017, 1, casado(a), Dick Grayson

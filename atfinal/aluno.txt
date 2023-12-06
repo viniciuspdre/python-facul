@@ -1,0 +1,167 @@
+Peter Parker | 0.4 - 6.0
+Bruce Banner | 4.5 - 10.0
+Tony Stark | 9.3 - 9.3
+Natasha Romanova | 2.3 - 2.7
+Charles Xavier | 0.0 - 1.7
+Erik Magnus | 5.9 - 9.9
+Stephen Vincent  | 9.8 - 1.2
+Matt Murdock | 4.7 - 8.8
+Nick Fury | 9.3 - 4.8
+Adam Warlock | 4.8 - 0.1
+Jean Grey | 10.0 - 7.0
+Jennifer Walters | 2.8 - 10.0
+Warren Kenneth Worthington III | 10.0 - 8.4
+Hank Pym | 9.7 - 5.8
+Kitty Pryde | 8.5 - 9.4
+Kara Zor-El | 1.2 - 3.6
+Billy Batson | 3.0 - 0.6
+Kal-El | 5.7 - 4.10
+Clark Kent | 10.0 - 10.0
+Bruce Wayne | 10.0 - 1.10
+Hal Jordan | 3.8 - 5.4
+Emma Frost | 8.5 - 9.6
+Kurt Wagner | 9.0 - 3.2
+Samuel Zachery | 8.5 - 1.3
+Roberto Da Costa | 1.10 - 7.2
+Alex Summers | 2.3 - 5.6
+Gabriel Summers | 2.10 - 0.7
+Lorna Sally Dane | 2.0 - 6.1
+Anna Marie LeBeau | 5.3 - 10.0
+Piotr Nikolaievitch Rasputin | 4.3 - 5.0
+Robert Louis Drake | 6.1 - 10.0
+Remy Etienne LeBeau | 8.0 - 5.6
+Henry Philip McCoy | 4.3 - 7.9
+Illyana Rasputin | 10.0 - 0.9
+Calvin Montgomery Rankin | 2.5 - 7.6
+Ororo Munroe | 8.9 - 1.0
+Shiro Yashida | 6.6 - 1.7
+James Howlett | 10.0 - 3.1
+Sean cassidy | 7.3 - 5.2
+Elizabeth Betsy Braddock | 2.2 - 2.3
+Jubilation Lee | 7.4 - 8.10
+Forge | 10.0 - 9.8
+Lucas Bishop | 8.9 - 10.0
+Nathan Christopher Charles Summers | 4.2 - 6.8
+Neena Thurman | 4.6 - 5.2
+James Proudstar | 6.1 - 8.7
+Wanda Maximoff | 10.0 - 9.3
+Pietro Django Maximoff | 9.4 - 3.4
+Gaveedra-Seven | 1.8 - 3.6
+Maria Callasantos | 0.2 - 8.10
+Tabitha Smith | 1.7 - 3.3
+Fantomex/Charlie Cluster | 0.10 - 3.6
+Wade Winston Wilson | 10.0 - 9.4
+Adam Warlock | 8.6 - 9.8
+Luke Cage  | 1.10 - 8.0
+Antony Edward Stark | 4.9 - 0.9
+Natalia Alianovna Romanova | 3.8 - 7.2
+Jessica Miriam Drew | 2.7 - 6.6
+Steven Grant Rogers | 10.0 - 0.10
+Walter Langkowski | 0.8 - 2.1
+Eugene Milton Judd | 7.5 - 2.2
+Matthew Michael Murdock | 5.7 - 10.0
+Samuel Thomas Wilson | 6.4 - 10.0
+Namor McKenzie | 7.10 - 5.4
+James Rupert Rhodes | 8.0 - 6.5
+Johnathon Blaze | 3.1 - 8.8
+Elektra Natchios | 3.6 - 1.2
+Norrin Radd | 1.4 - 5.4
+Robert Bruce Banner | 6.5 - 1.9
+Clinton Francis Barton | 0.10 - 1.6
+James Buchanan "Bucky" Barnes | 0.6 - 8.8
+Visão | 0.10 - 0.3
+Thor Odinson | 10.0 - 3.6
+Hércules | 1.2 - 4.1
+Frank Castle | 5.3 - 10.0
+Daniel Thomas Rand-K'ai | 1.0 - 2.2
+Erik Brooks | 4.6 - 4.3
+Tyrone Johnson | 3.1 - 8.5
+Tandy Bowen | 1.3 - 0.7
+Longshot | 10.0 - 6.0
+Alison Blaire | 8.3 - 10.0
+Ka-zar/lorde Kevin Reginald Plunder | 9.9 - 6.8
+Marc Spector | 9.3 - 1.0
+Blackagar Boltagon | 3.4 - 1.6
+Peter Jason Quill | 10.0 - 7.10
+Rocket Raccoon | 4.4 - 1.3
+Gamora Zen Whoberi Ben Titan | 1.0 - 0.1
+Arthur Sampson Douglas | 0.5 - 6.3
+Mantis | 6.10 - 5.2
+Richard Rider | 4.10 - 5.1
+Susan Victoria Sue Storm-Richards | 2.10 - 5.0
+Jonathan Lowell Spencer Storm | 1.10 - 4.4
+Reed Richards | 0.9 - 10.0
+Benjamin Jacob Grimm | 7.2 - 1.4
+Jennifer Susan Walters | 3.6 - 0.9
+John Proudstar | 7.10 - 4.7
+Zarda Shelton | 3.6 - 3.6
+Robert Frank | 9.10 - 2.2
+Kingsley Rice | 5.4 - 4.7
+Marcus Milton | 6.9 - 10.0
+Stanley Stewart | 8.0 - 5.1
+Raleigh Lund | 8.2 - 8.4
+Joseph Ledger | 9.7 - 1.4
+Albert Gaines | 9.9 - 5.1
+Edith Freiberg | 5.4 - 2.4
+Stephen Vincent Strange | 7.7 - 5.7
+Janet Van Dyne | 1.10 - 9.9
+Crystalia Amaquelin | 9.8 - 9.5
+Medusalith Amaquelin-Boltagon | 7.3 - 8.9
+Carol Susan Jane Danvers | 7.10 - 1.1
+Brian Braddock | 9.7 - 6.9
+Meggan Braddock | 5.9 - 10.0
+Jessica Campbell | 10.0 - 4.10
+Shuri | 5.4 - 1.10
+Nebulosa | 2.3 - 7.5
+Maria Hill | 4.8 - 9.1
+Virginia Potts | 7.4 - 6.3
+Valquíria | 1.2 - 10.0
+Vilões Marvel | 7.10 - 8.1
+Victor Von Doom, Rei da Latvéria | 8.1 - 8.8
+Kang o conquistador | 7.10 - 6.5
+Fu-manchu | 8.4 - 7.9
+Ultron | 1.4 - 0.6
+Galactus/Galan | 3.1 - 0.0
+Erik Lensherr | 6.8 - 6.5
+Raven Darkholme | 5.9 - 9.5
+Lester | 4.5 - 5.7
+Loki Laufeyson | 10.0 - 0.7
+Johann Schimidt | 6.4 - 10.0
+Jason Wyngarde | 4.2 - 2.9
+Victor Creed | 1.4 - 2.3
+Dominikos Ioannis Petrakis | 2.4 - 9.1
+Cain Marko | 3.2 - 5.6
+Selene Gallio | 2.10 - 0.3
+Emma Grace Frost | 10.0 - 3.0
+Jean Elaine Grey-Summers | 10.0 - 5.4
+Robert Reynolds | 0.2 - 0.1
+En Sabah Nur | 0.10 - 6.5
+Edward Charles Allan Brock | 0.9 - 8.1
+Wilson Grant Fisk | 10.0 - 8.7
+Norman Virgil Osborn | 8.4 - 6.10
+Jason Macendale Jr | 6.4 - 3.9
+Maxwell Dillon | 8.8 - 0.6
+Quentin Beck | 7.8 - 6.0
+William Baker | 0.8 - 5.7
+Morris Bench | 4.3 - 1.10
+Macdonald Gargan | 10.0 - 4.3
+Sergei Nikolayevich Kravinoff | 6.10 - 5.5
+Camaleão | 8.3 - 2.10
+Lonnie Thompson Lincoln | 0.5 - 3.9
+Michael Morbius | 2.10 - 0.7
+Cabeça de martelo | 3.3 - 10.0
+Dennis Carradine | 6.7 - 10.0
+Thanos | 4.7 - 1.1
+Otto Gunther Octavius | 9.0 - 0.5
+Cletus Kassady | 10.0 - 0.6
+Adrian Toomes | 10.0 - 6.5
+Mortimer Toynbee | 10.0 - 4.5
+Hela Odinsdottir | 0.5 - 7.6
+Arnim Zola | 9.7 - 10.0
+Erik Kilmonguer | 5.7 - 9.9
+Ulysses Klaw | 6.9 - 7.4
+Hal Jordan | 8.4 - 4.1
+Bruce Wayne | 10.0 - 3.3
+Selena Kyle | 0.2 - 3.9
+Clark Kent | 6.3 - 4.10
+Dick Grayson | 7.2 - 6.5
